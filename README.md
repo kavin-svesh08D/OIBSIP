@@ -1,7 +1,7 @@
 # OIBSIP
 Oasis infobyte java development 
 [] Guess The Number – Java Console Game
-* Description
+
 Guess The Number is a Java-based console game developed as part of my Java Development Internship task.
 The player guesses a randomly generated number within a limited number of attempts based on the selected difficulty level.
 
