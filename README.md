@@ -7,11 +7,15 @@ To develop a Java console-based game that allows users to guess a randomly gener
 
 Steps Performed
 
-Implemented difficulty selection with different number ranges and attempts
-Generated a random number using Java utilities
-Took user input and provided hints (Too High / Too Low)
-Calculated score based on attempts used
-Displayed game summary and replay option
+Implemented difficulty selection with different number ranges and attempts.
+
+Generated a random number using Java utilities.
+
+Took user input and provided hints (Too High / Too Low).
+
+Calculated score based on attempts used.
+
+Displayed game summary and replay option.
 
 Used
 
